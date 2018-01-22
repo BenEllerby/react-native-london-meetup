@@ -11,4 +11,10 @@ section.download {
             font-size: 70px;
         }
     }
+    .more-info-button {
+        margin-top: 40px;
+        @media(min-width: 768px) {
+            display: none;
+        }
+    }
 }

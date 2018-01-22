@@ -214,6 +214,16 @@ section.download h2 {
   }
 }
 
+section.download .more-info-button {
+  margin-top: 40px;
+}
+
+@media (min-width: 768px) {
+  section.download .more-info-button {
+    display: none;
+  }
+}
+
 section.features .section-heading {
   margin-bottom: 100px;
 }
