@@ -224,6 +224,10 @@ section.download .more-info-button {
   }
 }
 
+section.download .no-split {
+  white-space: nowrap;
+}
+
 section.features .section-heading {
   margin-bottom: 100px;
 }
